@@ -8,11 +8,12 @@ npm i mocha -g
 
 (or local)
 
-1.Jasmine "browser"
+##1. Jasmine "browser"
 
 Download Jasmine <a href="https://github.com/jasmine/jasmine/releases">standalone release</a>
 
-2.Mocha "browser"
+##2. Mocha "browser"
+
 ```
 mocha init ./test
 ```
@@ -38,7 +39,7 @@ reference this bundle in index.html
 
 Open in browser spec runner page
 
-3.Karma
+##3. Karma
 
 Install Karma global
 
